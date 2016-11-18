@@ -33,9 +33,11 @@ const merge = (left, right) => {
 	while(right.length){
 		result.push(right.shift())
 	}
+
+	// can use return [...result, ...left, ...right] instead of checking for lengths
 	return result;
 }
 
-module.exports = { mergeSort }
+module.exports = { mergeSort, merge }
 
 // complexity: O(nlogn)
