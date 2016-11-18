@@ -1,2 +1,2 @@
 # Practice CS Fundamentals
-Interview Prep - Commonly asked algorithms 
+Interview Prep - Commonly asked sorting algorithms, data structures, and functional programming
