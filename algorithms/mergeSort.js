@@ -41,3 +41,4 @@ const merge = (left, right) => {
 module.exports = { mergeSort, merge }
 
 // complexity: O(nlogn)
+// space: 0n
